@@ -87,9 +87,15 @@ O notebook reúne **29 fontes**, agrupadas abaixo por tema. Priorizei documenta�
 **Fontes citadas pelo notebook:**
 - *Complete Python Pandas Data Science Tutorial!* (Keith Galli), vídeo do YouTube. O trecho citado explica como importar o pandas como `pd` e apresenta o DataFrame como a principal estrutura de dados da biblioteca ([print da fonte](prints/06-fonte-pergunta1-keith-galli.png)).
 
-**Evidência:** [`prints/01-excel-resposta.png`](prints/01-excel-resposta.png) e [`prints/02-excel-desempenho-e-grafico-inicio.png`](prints/02-excel-desempenho-e-grafico-inicio.png)
+**Prints da resposta no chat:**
 
-![Resposta sobre extração de dados do Excel](prints/01-excel-resposta.png)
+![Resposta do notebook sobre Excel, parte 1](prints/01-excel-resposta.png)
+
+![Resposta do notebook sobre Excel, parte 2](prints/02-excel-desempenho-e-grafico-inicio.png)
+
+**Prints das fontes citadas:**
+
+![Fonte citada: Keith Galli, Pandas](prints/06-fonte-pergunta1-keith-galli.png)
 
 ### Pergunta 2: "Como posso gerar gráficos personalizáveis com esses dados extraídos?"
 
@@ -100,9 +106,19 @@ O notebook reúne **29 fontes**, agrupadas abaixo por tema. Priorizei documenta�
 - *Learn Matplotlib in 1 hour!* (vídeo do YouTube). O trecho explica como ajustar o tamanho e a cor dos marcadores, inclusive com valores RGB e hexadecimais ([print da fonte](prints/08-fonte-pergunta2-learn-matplotlib.png)).
 - *Matplotlib Full Python Course - Data Science Fundamentals* (NeuralNine, vídeo do YouTube). O trecho mostra como trocar o estilo do marcador (por exemplo, estrelas), definir cores e aplicar transparência ([print da fonte](prints/09-fonte-pergunta2-matplotlib-full-course.png)).
 
-**Evidência:** [`prints/02-excel-desempenho-e-grafico-inicio.png`](prints/02-excel-desempenho-e-grafico-inicio.png) e [`prints/03-grafico-personalizacao.png`](prints/03-grafico-personalizacao.png)
+**Prints da resposta no chat:**
 
-![Resposta sobre gráficos personalizáveis](prints/03-grafico-personalizacao.png)
+![Resposta do notebook sobre gráficos, parte 1](prints/02-excel-desempenho-e-grafico-inicio.png)
+
+![Resposta do notebook sobre gráficos, parte 2](prints/03-grafico-personalizacao.png)
+
+**Prints das fontes citadas:**
+
+![Fonte citada: tutoriais do pandas](prints/07-fonte-pergunta2-pandas-tutorials.png)
+
+![Fonte citada: Learn Matplotlib in 1 hour](prints/08-fonte-pergunta2-learn-matplotlib.png)
+
+![Fonte citada: Matplotlib Full Python Course](prints/09-fonte-pergunta2-matplotlib-full-course.png)
 
 ### Pergunta 3: "É possível usar todas as bibliotecas (Pandas, NumPy, Scikit-learn e Matplotlib) em uma mesma funcionalidade? Como eu faço isso dentro da minha IDE?"
 
@@ -113,13 +129,23 @@ O notebook reúne **29 fontes**, agrupadas abaixo por tema. Priorizei documenta�
 - *Te ensino TUDO sobre criar gráficos com Python e Matplotlib* (Asimov Dados, vídeo do YouTube). O trecho explica a instalação com `pip install matplotlib`, a execução dentro de um notebook Jupyter e a criação do primeiro gráfico de linha com `plt.plot` e `plt.show` ([print da fonte](prints/11-fonte-pergunta3-asimov-matplotlib.png)).
 - *Complete Python Pandas Data Science Tutorial!* (Keith Galli, vídeo do YouTube). O trecho apresenta as duas formas de trabalhar: no navegador, pelo Google Colab, ou localmente em uma IDE como VS Code, PyCharm ou JupyterLab ([print da fonte](prints/12-fonte-pergunta3-keith-galli.png)).
 
-**Evidência:** [`prints/04-integracao-resposta.png`](prints/04-integracao-resposta.png) e [`prints/05-integracao-ide.png`](prints/05-integracao-ide.png)
+**Prints da resposta no chat:**
 
-![Resposta sobre integração das bibliotecas](prints/04-integracao-resposta.png)
+![Resposta do notebook sobre integração, parte 1](prints/04-integracao-resposta.png)
+
+![Resposta do notebook sobre integração, parte 2](prints/05-integracao-ide.png)
+
+**Prints das fontes citadas:**
+
+![Fonte citada: Scikit-Learn Full Crash Course](prints/10-fonte-pergunta3-scikit-learn-crash-course.png)
+
+![Fonte citada: Asimov Dados, Matplotlib](prints/11-fonte-pergunta3-asimov-matplotlib.png)
+
+![Fonte citada: Keith Galli, Pandas](prints/12-fonte-pergunta3-keith-galli.png)
 
 ## 6. Mapa mental
 
-Mapa mental gerado pelo NotebookLM a partir das fontes: **Bibliotecas Python para Análise de Dados e Estatística**, com os ramos NumPy, Pandas, Matplotlib e Scikit-Learn.
+Mapa mental gerado pelo NotebookLM a partir das fontes: **Bibliotecas Python para Análise de Dados e Estatística**, com os ramos NumPy, Pandas, Matplotlib, Seaborn e Scikit-Learn.
 
 ![Mapa mental](mapa-mental.png)
 
