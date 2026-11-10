@@ -13,7 +13,7 @@ Repositório de documentação do meu "segundo cérebro" criado no **NotebookLM*
 
 ## 3. Fontes que entraram e por que confio nelas
 
-O notebook reúne **29 fontes**, agrupadas abaixo por tema. Priorizei documentação oficial como base e usei livros, vídeos e artigos como apoio didático.
+O notebook reúne **28 fontes**, agrupadas abaixo por tema. Priorizei documentação oficial como base e usei livros, vídeos e artigos como apoio didático.
 
 ### NumPy
 
@@ -23,7 +23,6 @@ O notebook reúne **29 fontes**, agrupadas abaixo por tema. Priorizei documenta�
 | [NumPy user guide — NumPy v2.5 Manual](https://numpy.org/doc/stable/user/index.html) | Documentação oficial | Cobre arrays, indexação, broadcasting e tipos de dados |
 | [NumPy quickstart — NumPy v2.6.dev0 Manual](https://numpy.org/devdocs/user/quickstart.html) | Documentação oficial | Tutorial rápido do próprio projeto |
 | [NumPy: the absolute basics for beginners](https://numpy.org/doc/2.5/user/absolute_beginners.html) | Documentação oficial | Guia introdutório oficial |
-| [NumPy 1.16 documentation — DevDocs](https://devdocs.io/numpy~1.16/) | Referência de terceiros | Espelho da documentação oficial; versão antiga, usada só como referência complementar |
 | [Beginner's Guide to NumPy — Mattermost](https://mattermost.com/blog/beginners-guide-to-numpy/) | Artigo | Apoio didático sobre eficiência de memória |
 | [NumPy — Pen and Pants](https://penandpants.com/category/python/numpy/) | Blog técnico | Testes de igualdade em arrays e comparações de desempenho |
 | Learn NumPy in 1 hour! | Vídeo (YouTube) | Aula rápida, apoio visual |
