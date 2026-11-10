@@ -119,7 +119,7 @@ O notebook reúne **29 fontes**, agrupadas abaixo por tema. Priorizei documenta�
 
 ## 6. Mapa mental
 
-Mapa mental gerado pelo NotebookLM a partir das fontes: **Bibliotecas Python para Análise de Dados e Estatística**, com os ramos NumPy, Pandas, Matplotlib, Seaborn e Scikit-Learn.
+Mapa mental gerado pelo NotebookLM a partir das fontes: **Bibliotecas Python para Análise de Dados e Estatística**, com os ramos NumPy, Pandas, Matplotlib e Scikit-Learn.
 
 ![Mapa mental](mapa-mental.png)
 
